@@ -1,0 +1,77 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+
+}
+
+.contenitore{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 60%;
+  height: 600px;
+  border-radius: 25px;
+  margin: auto;
+
+}
+
+.logo {
+  height: 100px;
+  width: 25%;
+  align-items: center;
+  display: block;
+  margin-left: 350px;
+
+}
+
+.text {
+  font-size: 25px;
+  font-weight: bold;
+  color:#00FF00;
+  text-align: center;
+  width: 100%;
+  display: block;
+
+}
+
+.contenitore2 {
+  background-color:#00FF00;
+  margin: auto;
+  height: 30px;
+  width: 60%;
+  padding-left: 220px;
+  padding-top: 10px;
+}
+
+section {
+  font-size: 25px;
+  color: white;
+  padding-left: 80px;
+
+}
+
+p, span {
+  font-size: 15px;
+  color: white;
+  padding-left: 80px;
+}
+
+.energia1 {
+  background-color: orange;
+  height: 20px;
+  width: 25%;
+  border-radius: 15px;
+
+}
+
+.energia2 {
+  background-color: green;
+  height: 20px;
+  width: 60%;
+  border-radius: 15px;
+}
+
+.energia3 {
+  background-color: red;
+  height: 20px;
+  width: 10%;
+  border-radius: 15px;
+}
